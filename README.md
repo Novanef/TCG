@@ -1,9 +1,13 @@
 # Durableverse - Groupe Sobre
 
 Commandes du makefile:
+
 make : génère l'éxécutable ./main ainsi que les fichiers objets dans le fichier bin
+
 make clean : supprime les fichiers objets stockés dans bin
+
 make rmproper : supprime l'éxécutable
+
 make run : lance l'éxécutable
 
 Après avoir effectué la commande make run, on demande à l'utilisateur s'il veut utiliser l'éditeur de deck ou faire une partie.
